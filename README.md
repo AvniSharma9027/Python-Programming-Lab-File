@@ -1,2 +1,3 @@
-# Python-Programming-Lab-File
-A collection of Python lab programs covering fundamentals of Python programming including operators, conditional statements, loops, functions, lists, tuples, strings, exception handling, file handling, modules, packages, NumPy, Matplotlib, Tkinter GUI, and Object-Oriented Programming concepts.
+# Python Programming Lab File
+
+This repository contains 25 Python lab programs completed as part of the B.Tech Computer Science Engineering curriculum. The programs cover Python fundamentals, data structures, functions, file handling, exception handling, modules, packages, NumPy, Matplotlib, Tkinter, and Object-Oriented Programming.
